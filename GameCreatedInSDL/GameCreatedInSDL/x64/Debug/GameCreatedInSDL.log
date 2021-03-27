@@ -1,0 +1,70 @@
+﻿  Dot.cpp
+D:\Visual Studio\GameCreatedInSDL\GameCreatedInSDL\libs.h(23,2): warning C4091: 'typedef ': ignored on left of 'ThreadData' when no variable is declared
+  Enemy.cpp
+D:\Visual Studio\GameCreatedInSDL\GameCreatedInSDL\libs.h(23,2): warning C4091: 'typedef ': ignored on left of 'ThreadData' when no variable is declared
+  FontTexture.cpp
+D:\Visual Studio\GameCreatedInSDL\GameCreatedInSDL\libs.h(23,2): warning C4091: 'typedef ': ignored on left of 'ThreadData' when no variable is declared
+  Player.cpp
+D:\Visual Studio\GameCreatedInSDL\GameCreatedInSDL\libs.h(23,2): warning C4091: 'typedef ': ignored on left of 'ThreadData' when no variable is declared
+  Texture.cpp
+D:\Visual Studio\GameCreatedInSDL\GameCreatedInSDL\libs.h(23,2): warning C4091: 'typedef ': ignored on left of 'ThreadData' when no variable is declared
+  Weapon.cpp
+D:\Visual Studio\GameCreatedInSDL\GameCreatedInSDL\libs.h(23,2): warning C4091: 'typedef ': ignored on left of 'ThreadData' when no variable is declared
+  libs.cpp
+D:\Visual Studio\GameCreatedInSDL\GameCreatedInSDL\libs.h(23,2): warning C4091: 'typedef ': ignored on left of 'ThreadData' when no variable is declared
+  main.cpp
+D:\Visual Studio\GameCreatedInSDL\GameCreatedInSDL\libs.h(23,2): warning C4091: 'typedef ': ignored on left of 'ThreadData' when no variable is declared
+D:\Visual Studio\GameCreatedInSDL\GameCreatedInSDL\main.cpp(6,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/FORCE' specification
+Enemy.obj : warning LNK4006: "int const WIDTH" (?WIDTH@@3HB) already defined in Dot.obj; second definition ignored
+Enemy.obj : warning LNK4006: "int const HEIGHT" (?HEIGHT@@3HB) already defined in Dot.obj; second definition ignored
+Enemy.obj : warning LNK4006: "int const SPAWN_RANGE" (?SPAWN_RANGE@@3HB) already defined in Dot.obj; second definition ignored
+Enemy.obj : warning LNK4006: "bool quit" (?quit@@3_NA) already defined in Dot.obj; second definition ignored
+Enemy.obj : warning LNK4006: "class std::vector<class Character *,class std::allocator<class Character *> > enemies" (?enemies@@3V?$vector@PEAVCharacter@@V?$allocator@PEAVCharacter@@@std@@@std@@A) already defined in Dot.obj; second definition ignored
+Enemy.obj : warning LNK4006: "class Character * player" (?player@@3PEAVCharacter@@EA) already defined in Dot.obj; second definition ignored
+Enemy.obj : warning LNK4006: "class std::mutex vectorMutex" (?vectorMutex@@3Vmutex@std@@A) already defined in Dot.obj; second definition ignored
+FontTexture.obj : warning LNK4006: "int const WIDTH" (?WIDTH@@3HB) already defined in Dot.obj; second definition ignored
+FontTexture.obj : warning LNK4006: "int const HEIGHT" (?HEIGHT@@3HB) already defined in Dot.obj; second definition ignored
+FontTexture.obj : warning LNK4006: "int const SPAWN_RANGE" (?SPAWN_RANGE@@3HB) already defined in Dot.obj; second definition ignored
+FontTexture.obj : warning LNK4006: "bool quit" (?quit@@3_NA) already defined in Dot.obj; second definition ignored
+FontTexture.obj : warning LNK4006: "class std::vector<class Character *,class std::allocator<class Character *> > enemies" (?enemies@@3V?$vector@PEAVCharacter@@V?$allocator@PEAVCharacter@@@std@@@std@@A) already defined in Dot.obj; second definition ignored
+FontTexture.obj : warning LNK4006: "class Character * player" (?player@@3PEAVCharacter@@EA) already defined in Dot.obj; second definition ignored
+FontTexture.obj : warning LNK4006: "class std::mutex vectorMutex" (?vectorMutex@@3Vmutex@std@@A) already defined in Dot.obj; second definition ignored
+libs.obj : warning LNK4006: "int const WIDTH" (?WIDTH@@3HB) already defined in Dot.obj; second definition ignored
+libs.obj : warning LNK4006: "int const HEIGHT" (?HEIGHT@@3HB) already defined in Dot.obj; second definition ignored
+libs.obj : warning LNK4006: "int const SPAWN_RANGE" (?SPAWN_RANGE@@3HB) already defined in Dot.obj; second definition ignored
+libs.obj : warning LNK4006: "bool quit" (?quit@@3_NA) already defined in Dot.obj; second definition ignored
+libs.obj : warning LNK4006: "class std::vector<class Character *,class std::allocator<class Character *> > enemies" (?enemies@@3V?$vector@PEAVCharacter@@V?$allocator@PEAVCharacter@@@std@@@std@@A) already defined in Dot.obj; second definition ignored
+libs.obj : warning LNK4006: "class Character * player" (?player@@3PEAVCharacter@@EA) already defined in Dot.obj; second definition ignored
+libs.obj : warning LNK4006: "class std::mutex vectorMutex" (?vectorMutex@@3Vmutex@std@@A) already defined in Dot.obj; second definition ignored
+main.obj : warning LNK4006: "int const WIDTH" (?WIDTH@@3HB) already defined in Dot.obj; second definition ignored
+main.obj : warning LNK4006: "int const HEIGHT" (?HEIGHT@@3HB) already defined in Dot.obj; second definition ignored
+main.obj : warning LNK4006: "int const SPAWN_RANGE" (?SPAWN_RANGE@@3HB) already defined in Dot.obj; second definition ignored
+main.obj : warning LNK4006: "bool quit" (?quit@@3_NA) already defined in Dot.obj; second definition ignored
+main.obj : warning LNK4006: "class std::vector<class Character *,class std::allocator<class Character *> > enemies" (?enemies@@3V?$vector@PEAVCharacter@@V?$allocator@PEAVCharacter@@@std@@@std@@A) already defined in Dot.obj; second definition ignored
+main.obj : warning LNK4006: "class Character * player" (?player@@3PEAVCharacter@@EA) already defined in Dot.obj; second definition ignored
+main.obj : warning LNK4006: "class std::mutex vectorMutex" (?vectorMutex@@3Vmutex@std@@A) already defined in Dot.obj; second definition ignored
+Player.obj : warning LNK4006: "int const WIDTH" (?WIDTH@@3HB) already defined in Dot.obj; second definition ignored
+Player.obj : warning LNK4006: "int const HEIGHT" (?HEIGHT@@3HB) already defined in Dot.obj; second definition ignored
+Player.obj : warning LNK4006: "int const SPAWN_RANGE" (?SPAWN_RANGE@@3HB) already defined in Dot.obj; second definition ignored
+Player.obj : warning LNK4006: "bool quit" (?quit@@3_NA) already defined in Dot.obj; second definition ignored
+Player.obj : warning LNK4006: "class std::vector<class Character *,class std::allocator<class Character *> > enemies" (?enemies@@3V?$vector@PEAVCharacter@@V?$allocator@PEAVCharacter@@@std@@@std@@A) already defined in Dot.obj; second definition ignored
+Player.obj : warning LNK4006: "class Character * player" (?player@@3PEAVCharacter@@EA) already defined in Dot.obj; second definition ignored
+Player.obj : warning LNK4006: "class std::mutex vectorMutex" (?vectorMutex@@3Vmutex@std@@A) already defined in Dot.obj; second definition ignored
+Texture.obj : warning LNK4006: "int const WIDTH" (?WIDTH@@3HB) already defined in Dot.obj; second definition ignored
+Texture.obj : warning LNK4006: "int const HEIGHT" (?HEIGHT@@3HB) already defined in Dot.obj; second definition ignored
+Texture.obj : warning LNK4006: "int const SPAWN_RANGE" (?SPAWN_RANGE@@3HB) already defined in Dot.obj; second definition ignored
+Texture.obj : warning LNK4006: "bool quit" (?quit@@3_NA) already defined in Dot.obj; second definition ignored
+Texture.obj : warning LNK4006: "class std::vector<class Character *,class std::allocator<class Character *> > enemies" (?enemies@@3V?$vector@PEAVCharacter@@V?$allocator@PEAVCharacter@@@std@@@std@@A) already defined in Dot.obj; second definition ignored
+Texture.obj : warning LNK4006: "class Character * player" (?player@@3PEAVCharacter@@EA) already defined in Dot.obj; second definition ignored
+Texture.obj : warning LNK4006: "class std::mutex vectorMutex" (?vectorMutex@@3Vmutex@std@@A) already defined in Dot.obj; second definition ignored
+Weapon.obj : warning LNK4006: "int const WIDTH" (?WIDTH@@3HB) already defined in Dot.obj; second definition ignored
+Weapon.obj : warning LNK4006: "int const HEIGHT" (?HEIGHT@@3HB) already defined in Dot.obj; second definition ignored
+Weapon.obj : warning LNK4006: "int const SPAWN_RANGE" (?SPAWN_RANGE@@3HB) already defined in Dot.obj; second definition ignored
+Weapon.obj : warning LNK4006: "bool quit" (?quit@@3_NA) already defined in Dot.obj; second definition ignored
+Weapon.obj : warning LNK4006: "class std::vector<class Character *,class std::allocator<class Character *> > enemies" (?enemies@@3V?$vector@PEAVCharacter@@V?$allocator@PEAVCharacter@@@std@@@std@@A) already defined in Dot.obj; second definition ignored
+Weapon.obj : warning LNK4006: "class Character * player" (?player@@3PEAVCharacter@@EA) already defined in Dot.obj; second definition ignored
+Weapon.obj : warning LNK4006: "class std::mutex vectorMutex" (?vectorMutex@@3Vmutex@std@@A) already defined in Dot.obj; second definition ignored
+D:\Visual Studio\GameCreatedInSDL\x64\Debug\GameCreatedInSDL.exe : warning LNK4088: image being generated due to /FORCE option; image may not run
+  GameCreatedInSDL.vcxproj -> D:\Visual Studio\GameCreatedInSDL\x64\Debug\GameCreatedInSDL.exe
